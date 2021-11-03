@@ -1,6 +1,6 @@
 # Excel-Challenge
 
-Conclusions I Draw About the Kickstarter Campaign:
+Conclusions:
   1.	The US accounts for significantly more campaigns, especially successful campaigns, than any of the other country on the list.
   2.	The following campaign categories have a near 100% success rate:
     a.	Documentaries
@@ -27,5 +27,6 @@ Considering that the Median of Successful Campaigns is 62 backers with the Maxim
   There is more variability with successful campaigns based on the Variability of Successful Vs Unsuccessful campaigns being 713,167 and 3,776 respectively. I think this makes sense because variability is the spread in the data and unsuccessful campaigns have both a floor (0 backers) and a ceiling (1 backer less than the minimum number of US dollars required to make the campaign successful) while successful campaigns have a floor minimum of 1 backer but the only limiting factor in pledged number of backers and dollars is the time that the campaign is run, thus the potential spread for a successful campaign is practically without limit. 
 <hr>
 Contact:
-linkedin.com/in/sharon-colson-515222210
-sharon.colson@gmail.com
+
+* https://www.linkedin.com/in/sharon-colson-515222210/
+* sharon.colson@gmail.com
