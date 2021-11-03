@@ -25,3 +25,7 @@ Bonus Statistical Analysis:
 Considering that the Median of Successful Campaigns is 62 backers with the Maximum number of backers counted at 26,457 the Mean is a more meaningful summarization of the data. I would think that if one is trying to determine if a potential campaign has a good chance of success, having more backers than the average would be more meaningful information than having the middle number of backers. 
   
   There is more variability with successful campaigns based on the Variability of Successful Vs Unsuccessful campaigns being 713,167 and 3,776 respectively. I think this makes sense because variability is the spread in the data and unsuccessful campaigns have both a floor (0 backers) and a ceiling (1 backer less than the minimum number of US dollars required to make the campaign successful) while successful campaigns have a floor minimum of 1 backer but the only limiting factor in pledged number of backers and dollars is the time that the campaign is run, thus the potential spread for a successful campaign is practically without limit. 
+<hr>
+Contact:
+linkedin.com/in/sharon-colson-515222210
+sharon.colson@gmail.com
