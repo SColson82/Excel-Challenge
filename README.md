@@ -28,5 +28,5 @@ Considering that the Median of Successful Campaigns is 62 backers with the Maxim
 <hr>
 Contact:
 
-* https://www.linkedin.com/in/sharon-colson-515222210/
+* https://www.linkedin.com/in/sharon-colson
 * sharon.colson@gmail.com
