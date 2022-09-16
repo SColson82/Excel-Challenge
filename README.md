@@ -1,4 +1,4 @@
-# Excel-Challenge
+# Analysis of Kickstarter Campaigns
 
 Conclusions:
   1.	The US accounts for significantly more campaigns, especially successful campaigns, than any of the other country on the list.
